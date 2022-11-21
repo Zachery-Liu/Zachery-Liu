@@ -1,6 +1,6 @@
 ### Hi there, This is Zachery-Liu speaking!  👋
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./verified.svg" style="height:20px"> &nbsp; **THE MOST HANDSOME MAN IN THE WORLD**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./verified.svg" style="height:18px"> &nbsp; **THE MOST HANDSOME MAN IN THE WORLD**
 
 
 [![bilibili](https://img.shields.io/static/v1?label=bilibili&message=Zachery_Liu&color=blue&style=for-the-badge&logo=bilibili)](https://space.bilibili.com/474705747)
